@@ -42,7 +42,6 @@ Then the rest were mostly recommended or picked by default and left unchanged
 ![Demo-image](images/S3.1.png)
 ![Demo-image](images/S3.2.png)
 
-
 # BUCKET SUCCESSFULLY CREATED
 click on UPLOAD to upload your extracted static website template
 
