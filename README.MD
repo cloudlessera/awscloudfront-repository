@@ -56,7 +56,7 @@ click on UPLOAD to upload your extracted static website template
 -
 
 
-Next:Created A Cloudfront Distribution
+Next: i Created A Cloudfront Distribution
 Set The S3 Bucket As The Origin
 
 Go To Cloudfront Click On Distribution Then Click On **CREATE DISTRIBUTION**
@@ -87,3 +87,6 @@ click on CREATE DISTRIBUTION
 ## SITE IS FULLY ACTIVE
 
 ![Demo-image](images/cloudfrontstaticsite.png)
+-
+
+- follow on [LinkedIN](www.linkedin.com/in/emmanuel-raphael-908442442)  and on [X](https://x.com/cubycue)
