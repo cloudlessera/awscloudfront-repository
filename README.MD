@@ -89,4 +89,4 @@ click on CREATE DISTRIBUTION
 ![Demo-image](images/cloudfrontstaticsite.png)
 -
 
-- follow on [LinkedIN](www.linkedin.com/in/emmanuel-raphael-908442442)  and on [X](https://x.com/cubycue)
+- follow on [LinkedIN](https://www.linkedin.com/in/emmanuel-raphael-908442442) and on [X](https://x.com/cubycue)
